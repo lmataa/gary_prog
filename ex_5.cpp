@@ -9,7 +9,7 @@ int main (){
 
 //mis variables 
 
-int inicial, final, vp;
+double inicial, final, vp;
 
 
 //lo que tengo que pedir para poder calcularlo
