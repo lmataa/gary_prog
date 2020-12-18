@@ -15,7 +15,7 @@ using namespace std;
 
 double pi;
  
-pi= 6 * asin * 0.5;
+pi= 6 * asin (0.5);
 
 cout << "PI vale:  " <<pi;
 
